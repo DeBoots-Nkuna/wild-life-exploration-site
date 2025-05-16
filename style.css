@@ -10,7 +10,7 @@ body {
   width: 200px;
 }
 .hero-section {
-  background-image: url('/images/wild.webp');
+  background-image: url('images/wild.webp');
   background-size: cover;
   padding: 100px 0 200px;
 }
